@@ -17,14 +17,238 @@
     <property name="xml">was here</property>
     <property name="shotcut:caption">01 - Постановка рук.divx</property>
   </producer>
+  <producer id="producer1" in="00:00:00.000" out="00:01:03.760">
+    <property name="length">00:01:03.800</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Караталы/2 - Видео диск/02 - Звуки/01 - та .divx</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:22:26</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">57bf894504ecb55e3ac0177d92e136a2</property>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="00:00:59.000">
+    <property name="length">00:00:59.040</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Караталы/2 - Видео диск/02 - Звуки/02 - тха .divx</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:22:46</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">278555b2a37e658012a38f03cf0be554</property>
+  </producer>
+  <producer id="producer3" in="00:00:00.000" out="00:01:08.440">
+    <property name="length">00:01:08.480</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Караталы/2 - Видео диск/02 - Звуки/03 - те .divx</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:23:02</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a87789a306ffec6d4da2e7b395e02429</property>
+  </producer>
+  <producer id="producer4" in="00:00:00.000" out="00:00:35.000">
+    <property name="length">00:00:35.040</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Караталы/2 - Видео диск/02 - Звуки/04 - тен .divx</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:23:26</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">17ebea1f88fb43d7ab06748d8562f72a</property>
+  </producer>
+  <producer id="producer5" in="00:00:00.000" out="00:00:39.840">
+    <property name="length">00:00:39.880</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Караталы/2 - Видео диск/02 - Звуки/05 - тан .divx</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:23:34</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0ede70febda112df2f0ad40f1faa0d68</property>
+  </producer>
+  <producer id="producer6" in="00:00:00.000" out="00:00:28.240">
+    <property name="length">00:00:28.280</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Караталы/2 - Видео диск/02 - Звуки/06 - тхан .divx</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:23:50</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">037771b5d985762aa23d5978fd8b6b6c</property>
+  </producer>
+  <producer id="producer7" in="00:00:00.000" out="00:00:38.240">
+    <property name="length">00:00:38.280</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Караталы/2 - Видео диск/02 - Звуки/07 - ке .divx</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:23:56</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">dbbaf79620a6956ff2f78abb33a11e6f</property>
+  </producer>
+  <producer id="producer8" in="00:00:00.000" out="00:00:40.760">
+    <property name="length">00:00:40.800</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Караталы/2 - Видео диск/02 - Звуки/08 - ка .divx</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:24:06</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f6b6ce956d23ecc9bada9d9db250956e</property>
+  </producer>
+  <producer id="producer9" in="00:00:00.000" out="00:00:24.440">
+    <property name="length">00:00:24.480</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Караталы/2 - Видео диск/02 - Звуки/09 - Так .divx</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:24:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">39c2997d32676cac56ae3e0fb44a2ef8</property>
+  </producer>
+  <producer id="producer10" in="00:00:00.000" out="00:00:25.200">
+    <property name="length">00:00:25.240</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Караталы/2 - Видео диск/02 - Звуки/10 - Тхак .divx</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:24:24</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">88ffbf489c9792d87f3843cc26b91324</property>
+  </producer>
+  <producer id="producer11" in="00:00:00.000" out="00:00:21.080">
+    <property name="length">00:00:21.120</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Караталы/2 - Видео диск/02 - Звуки/11 - Тек .divx</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:24:32</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">9e40b34e9c038295d7d59ae693378954</property>
+  </producer>
+  <producer id="producer12" in="00:00:00.000" out="00:00:51.520">
+    <property name="length">00:00:51.560</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Караталы/2 - Видео диск/02 - Звуки/12 - Ди Ни .divx</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:24:36</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">9919c70951539bb9c707e0d5267775b9</property>
+  </producer>
+  <producer id="producer13" in="00:00:00.000" out="00:00:45.680">
+    <property name="length">00:00:45.720</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Караталы/2 - Видео диск/02 - Звуки/13 - Ри Ти .divx</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:24:52</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">4337e01cc263e29cc3e06f36d8da0c5e</property>
+  </producer>
+  <producer id="producer14" in="00:00:00.000" out="00:00:29.400">
+    <property name="length">00:00:29.440</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Караталы/2 - Видео диск/02 - Звуки/14 - Да На .divx</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:25:04</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">5055dc543f9cb64438951cea8e211b9c</property>
+  </producer>
   <playlist id="main_bin" title="Shotcut version 21.01.29">
     <property name="shotcut:projectAudioChannels">2</property>
     <property name="shotcut:projectFolder">1</property>
     <property name="xml_retain">1</property>
     <entry producer="producer0" in="00:00:00.000" out="00:04:06.160"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:01:03.760"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:59.000"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:01:08.440"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:35.000"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:39.840"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:28.240"/>
+    <entry producer="producer7" in="00:00:00.000" out="00:00:38.240"/>
+    <entry producer="producer8" in="00:00:00.000" out="00:00:40.760"/>
+    <entry producer="producer9" in="00:00:00.000" out="00:00:24.440"/>
+    <entry producer="producer10" in="00:00:00.000" out="00:00:25.200"/>
+    <entry producer="producer11" in="00:00:00.000" out="00:00:21.080"/>
+    <entry producer="producer12" in="00:00:00.000" out="00:00:51.520"/>
+    <entry producer="producer13" in="00:00:00.000" out="00:00:45.680"/>
+    <entry producer="producer14" in="00:00:00.000" out="00:00:29.400"/>
   </playlist>
-  <producer id="black" in="00:00:00.000" out="00:04:06.160">
-    <property name="length">00:04:06.200</property>
+  <producer id="black" in="00:00:00.000" out="00:02:05.520">
+    <property name="length">00:02:05.560</property>
     <property name="eof">pause</property>
     <property name="resource">0</property>
     <property name="aspect_ratio">1</property>
@@ -33,64 +257,121 @@
     <property name="set.test_audio">0</property>
   </producer>
   <playlist id="background">
-    <entry producer="black" in="00:00:00.000" out="00:04:06.160"/>
+    <entry producer="black" in="00:00:00.000" out="00:02:05.520"/>
   </playlist>
-  <producer id="producer1" in="00:00:00.000" out="00:04:06.160">
-    <property name="length">00:04:06.200</property>
+  <producer id="producer15" in="00:00:00.000" out="00:01:03.760">
+    <property name="length">00:01:03.800</property>
     <property name="eof">pause</property>
-    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Караталы/2 - Видео диск/01 - Постановка рук/01 - Постановка рук.divx</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Караталы/2 - Видео диск/02 - Звуки/01 - та .divx</property>
     <property name="audio_index">1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">0</property>
     <property name="mlt_service">avformat-novalidate</property>
     <property name="seekable">1</property>
     <property name="aspect_ratio">1</property>
-    <property name="shotcut:hash">a534af681fd095eb82ca74bf29272fc9</property>
-    <property name="ignore_points">0</property>
+    <property name="creation_time">2021-02-01T20:22:26</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
-    <property name="shotcut:caption">01 - Постановка рук.divx</property>
-    <filter id="filter0" out="00:04:06.160">
+    <property name="shotcut:hash">57bf894504ecb55e3ac0177d92e136a2</property>
+    <property name="shotcut:caption">01 - та .divx</property>
+    <filter id="filter0" out="00:00:02.680">
       <property name="version">0.2</property>
       <property name="mlt_service">frei0r.IIRblur</property>
       <property name="shotcut:filter">blur_gaussian</property>
       <property name="1">0.99</property>
-      <property name="0">00:00:03.680=0.0111111;00:00:04.320=0.456785;00:00:04.920=0.490316;00:00:05.960=0.48963;00:00:06.560=0.467649;00:00:07.120=0.0111111</property>
+      <property name="0">00:00:02.160=0;00:00:02.680=0.390099</property>
       <property name="shotcut:animIn">00:00:00.000</property>
       <property name="shotcut:animOut">00:00:00.000</property>
     </filter>
-    <filter id="filter1" out="00:04:06.160">
-      <property name="start">1</property>
-      <property name="level">1.067</property>
-      <property name="mlt_service">brightness</property>
+  </producer>
+  <producer id="producer16" in="00:00:00.000" out="00:00:17.800">
+    <property name="length">446</property>
+    <property name="eof">pause</property>
+    <property name="resource">01 - та  - Reversed1.mkv</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:22:26</property>
+    <property name="shotcut:hash">bf0321d6ad551456824f007493f6caef</property>
+    <property name="shotcut:defaultAudioIndex">-1</property>
+    <property name="shotcut:originalIn">00:00:02.680</property>
+    <property name="shotcut:originalOut">00:00:02.840</property>
+    <property name="shotcut:resource">/Users/div/projects/laghu-sangitamrita/media/Караталы/2 - Видео диск/02 - Звуки/01 - та .divx</property>
+    <property name="shotcut:caption">01 - та  - Reversed1.mkv</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter1" in="00:00:14.960" out="00:00:17.800">
+      <property name="version">0.2</property>
+      <property name="mlt_service">frei0r.IIRblur</property>
+      <property name="shotcut:filter">blur_gaussian</property>
+      <property name="1">0.99</property>
+      <property name="0">0.402</property>
     </filter>
-    <filter id="filter2" out="00:04:06.160">
-      <property name="lift_r">0</property>
-      <property name="lift_g">0</property>
-      <property name="lift_b">0</property>
-      <property name="gamma_r">0.994</property>
-      <property name="gamma_g">0.994</property>
-      <property name="gamma_b">0.994</property>
-      <property name="gain_r">1.006</property>
-      <property name="gain_g">1.006</property>
-      <property name="gain_b">1.006</property>
-      <property name="mlt_service">lift_gamma_gain</property>
-      <property name="shotcut:filter">contrast</property>
-    </filter>
-    <filter id="filter3" out="00:04:06.160">
-      <property name="version">0.1</property>
-      <property name="mlt_service">frei0r.colgate</property>
-      <property name="threads">0</property>
-      <property name="0">#7f7f7f</property>
-      <property name="1">0.506096</property>
-    </filter>
+  </producer>
+  <producer id="producer17" in="00:00:00.000" out="00:01:03.760">
+    <property name="length">00:01:03.800</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Караталы/2 - Видео диск/02 - Звуки/01 - та .divx</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:22:26</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">57bf894504ecb55e3ac0177d92e136a2</property>
+    <property name="shotcut:caption">01 - та .divx</property>
+  </producer>
+  <tractor id="tractor0" global_feed="1" in="00:00:00.000" out="00:00:00.200">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer16" in="00:00:17.600" out="00:00:17.800"/>
+    <track producer="producer17" in="00:00:02.640" out="00:00:02.840"/>
+    <transition id="transition0" out="00:00:00.200">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition1" out="00:00:00.200">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+  </tractor>
+  <producer id="producer18" in="00:00:00.000" out="00:00:59.000">
+    <property name="length">00:00:59.040</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Караталы/2 - Видео диск/02 - Звуки/02 - тха .divx</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:22:46</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">278555b2a37e658012a38f03cf0be554</property>
+    <property name="shotcut:caption">02 - тха .divx</property>
   </producer>
   <playlist id="playlist0">
     <property name="shotcut:video">1</property>
     <property name="shotcut:name">V1</property>
-    <entry producer="producer1" in="00:00:00.000" out="00:04:06.160"/>
+    <entry producer="producer15" in="00:00:00.000" out="00:00:02.680"/>
+    <entry producer="producer16" in="00:00:14.960" out="00:00:17.560"/>
+    <entry producer="tractor0" in="00:00:00.000" out="00:00:00.200"/>
+    <entry producer="producer17" in="00:00:02.880" out="00:01:03.760"/>
+    <entry producer="producer18" in="00:00:00.000" out="00:00:59.000"/>
   </playlist>
-  <producer id="producer2" in="00:00:00.000" out="03:59:59.960">
+  <producer id="producer19" in="00:00:00.000" out="03:59:59.960">
     <property name="length">04:00:00.000</property>
     <property name="eof">pause</property>
     <property name="resource">#00000000</property>
@@ -103,7 +384,7 @@
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
     <property name="seekable">1</property>
-    <filter id="filter4" out="00:00:03.960">
+    <filter id="filter2" out="00:00:02.200">
       <property name="argument">Уроки Игры на Караталах</property>
       <property name="geometry">114 185 498 77 1</property>
       <property name="family">Jost</property>
@@ -124,8 +405,8 @@
       <property name="shotcut:animIn">00:00:00.000</property>
       <property name="shotcut:animOut">00:00:00.000</property>
     </filter>
-    <filter id="filter5" out="00:00:03.960">
-      <property name="argument">1. Постановка Рук</property>
+    <filter id="filter3" out="00:00:02.200">
+      <property name="argument">2. Звуки </property>
       <property name="geometry">1 0 719 539 1</property>
       <property name="family">Jost</property>
       <property name="size">64</property>
@@ -145,7 +426,29 @@
       <property name="shotcut:animOut">00:00:00.000</property>
       <property name="shotcut:pointSize">64</property>
     </filter>
-    <filter id="filter6" out="00:00:03.960">
+    <filter id="filter4" out="00:00:02.200">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">00:00:01.560=1;00:00:02.200=0</property>
+      <property name="shotcut:animOut">00:00:00.680</property>
+    </filter>
+    <filter id="filter5" out="00:00:02.200">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 0 720 540 1;00:00:01.000=-5.04 -4 730.08 548 1;00:00:02.200=0 0 720 540 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:01.120</property>
+      <property name="shotcut:animOut">00:00:01.240</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">00:00:00.000=0;00:00:01.000=0;00:00:02.200=0</property>
+    </filter>
+    <filter id="filter6" out="00:00:02.200">
       <property name="start">1</property>
       <property name="level">1</property>
       <property name="mlt_service">brightness</property>
@@ -153,50 +456,129 @@
       <property name="alpha">00:00:00.000=0;00:00:00.960=1</property>
       <property name="shotcut:animIn">00:00:01.000</property>
     </filter>
-    <filter id="filter7" out="00:00:03.960">
+  </producer>
+  <playlist id="playlist1">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V2</property>
+    <blank length="00:00:02.280"/>
+    <entry producer="producer19" in="00:00:00.000" out="00:00:01.880"/>
+  </playlist>
+  <playlist id="playlist2">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <blank length="00:00:00.040"/>
+  </playlist>
+  <producer id="producer20" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter7" in="00:00:00.200" out="00:00:02.240">
+      <property name="argument">Уроки Игры на Караталах</property>
+      <property name="geometry">114 185 498 77 1</property>
+      <property name="family">Jost</property>
+      <property name="size">32</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">32</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter8" in="00:00:00.200" out="00:00:02.240">
+      <property name="argument">Звук Та</property>
+      <property name="geometry">1 0 719 539 1</property>
+      <property name="family">Jost</property>
+      <property name="size">64</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">64</property>
+    </filter>
+    <filter id="filter9" in="00:00:00.200" out="00:00:02.240">
       <property name="start">1</property>
       <property name="level">1</property>
       <property name="mlt_service">brightness</property>
       <property name="shotcut:filter">fadeOutBrightness</property>
-      <property name="alpha">00:00:03.000=1;00:00:03.960=0</property>
+      <property name="alpha">00:00:01.080=1;00:00:02.040=0</property>
       <property name="shotcut:animOut">00:00:01.000</property>
     </filter>
-    <filter id="filter8" out="00:00:03.960">
+    <filter id="filter10" in="00:00:00.200" out="00:00:02.240">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">00:00:00.000=0;00:00:00.800=1</property>
+      <property name="shotcut:animIn">00:00:00.840</property>
+    </filter>
+    <filter id="filter11" in="00:00:00.200" out="00:00:02.240">
       <property name="background">color:#00000000</property>
       <property name="mlt_service">affine</property>
       <property name="shotcut:filter">affineSizePosition</property>
       <property name="transition.fill">1</property>
       <property name="transition.distort">0</property>
-      <property name="transition.rect">00:00:00.000=0 0 720 540 1;00:00:01.080=-5.04 -4 730.08 548 1;00:00:02.760=-5.04 -4 730.08 548 1;00:00:03.960=0 0 720 540 1</property>
+      <property name="transition.rect">00:00:00.000=0 0 720 540 1;00:00:00.840=-5.04 -4 730.08 548 1;00:00:02.040=0 0 720 540 1</property>
       <property name="transition.valign">middle</property>
       <property name="transition.halign">center</property>
       <property name="shotcut:animIn">00:00:01.120</property>
       <property name="shotcut:animOut">00:00:01.240</property>
       <property name="transition.threads">0</property>
-      <property name="transition.fix_rotate_x">00:00:00.000=0;00:00:01.080=0;00:00:02.760=0;00:00:03.960=0</property>
+      <property name="transition.fix_rotate_x">00:00:00.000=0;00:00:00.840=0;00:00:02.040=0</property>
     </filter>
   </producer>
-  <playlist id="playlist1">
+  <playlist id="playlist3">
     <property name="shotcut:video">1</property>
-    <property name="shotcut:name">V2</property>
-    <blank length="00:00:03.760"/>
-    <entry producer="producer2" in="00:00:00.000" out="00:00:03.960"/>
+    <property name="shotcut:name">V3</property>
+    <blank length="00:00:04.200"/>
+    <entry producer="producer20" in="00:00:00.200" out="00:00:02.240"/>
   </playlist>
-  <tractor id="tractor0" title="Shotcut version 21.01.29" global_feed="1" in="00:00:00.000" out="00:04:06.160">
+  <tractor id="tractor1" title="Shotcut version 21.01.29" global_feed="1" in="00:00:00.000" out="00:02:05.520">
     <property name="shotcut">1</property>
     <property name="shotcut:projectAudioChannels">2</property>
     <property name="shotcut:projectFolder">1</property>
+    <property name="shotcut:scaleFactor">0.653023</property>
     <track producer="background"/>
     <track producer="playlist0"/>
     <track producer="playlist1"/>
-    <transition id="transition0">
+    <track producer="playlist2" hide="video"/>
+    <track producer="playlist3"/>
+    <transition id="transition2">
       <property name="a_track">0</property>
       <property name="b_track">1</property>
       <property name="mlt_service">mix</property>
       <property name="always_active">1</property>
       <property name="sum">1</property>
     </transition>
-    <transition id="transition1">
+    <transition id="transition3">
       <property name="a_track">0</property>
       <property name="b_track">1</property>
       <property name="version">0.9</property>
@@ -204,16 +586,38 @@
       <property name="threads">0</property>
       <property name="disable">1</property>
     </transition>
-    <transition id="transition2">
+    <transition id="transition4">
       <property name="a_track">0</property>
       <property name="b_track">2</property>
       <property name="mlt_service">mix</property>
       <property name="always_active">1</property>
       <property name="sum">1</property>
     </transition>
-    <transition id="transition3">
+    <transition id="transition5">
       <property name="a_track">1</property>
       <property name="b_track">2</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition6">
+      <property name="a_track">0</property>
+      <property name="b_track">3</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition7">
+      <property name="a_track">0</property>
+      <property name="b_track">4</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition8">
+      <property name="a_track">1</property>
+      <property name="b_track">4</property>
       <property name="version">0.9</property>
       <property name="mlt_service">frei0r.cairoblend</property>
       <property name="threads">0</property>
