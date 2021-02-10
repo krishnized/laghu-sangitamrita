@@ -1,0 +1,145 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="6.25.0" title="Shotcut version 21.01.29" producer="main_bin">
+  <profile description="automatic" width="720" height="540" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="720" display_aspect_den="540" frame_rate_num="25" frame_rate_den="1" colorspace="601"/>
+  <producer id="producer0" in="00:00:00.000" out="00:04:06.160">
+    <property name="length">00:04:06.200</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/projects/laghu-sangitamrita/media/Караталы/2 - Видео диск/01 - Постановка рук/01 - Постановка рук.divx</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">a534af681fd095eb82ca74bf29272fc9</property>
+    <property name="ignore_points">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">01 - Постановка рук.divx</property>
+  </producer>
+  <playlist id="main_bin" title="Shotcut version 21.01.29">
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:04:06.160"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:04:06.160">
+    <property name="length">00:04:06.200</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:04:06.160"/>
+  </playlist>
+  <producer id="producer1" in="00:00:00.000" out="00:04:06.160">
+    <property name="length">00:04:06.200</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/projects/laghu-sangitamrita/media/Караталы/2 - Видео диск/01 - Постановка рук/01 - Постановка рук.divx</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">a534af681fd095eb82ca74bf29272fc9</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">01 - Постановка рук.divx</property>
+    <filter id="filter0" out="00:04:06.160">
+      <property name="version">0.2</property>
+      <property name="mlt_service">frei0r.IIRblur</property>
+      <property name="shotcut:filter">blur_exponential</property>
+      <property name="1">0</property>
+      <property name="0">00:00:03.920=0.0111111;00:00:04.040=0.255293;00:00:04.200=0.447472;00:00:04.400=0.541968;00:00:05.520=0.595088;00:00:06.720=0.536594;00:00:07.040=0.429574;00:00:07.200=0.228006;00:00:07.320=0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="producer1" in="00:00:00.000" out="00:04:06.160"/>
+  </playlist>
+  <producer id="producer2" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter1" out="00:00:03.960">
+      <property name="argument">Hello World</property>
+      <property name="geometry">-2 198 720 135 1</property>
+      <property name="family">Source Code Pro</property>
+      <property name="size">100</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <playlist id="playlist1">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V2</property>
+    <blank length="00:00:03.480"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:03.960"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 21.01.29" global_feed="1" in="00:00:00.000" out="00:04:06.160">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition3">
+      <property name="a_track">1</property>
+      <property name="b_track">2</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+  </tractor>
+</mlt>
