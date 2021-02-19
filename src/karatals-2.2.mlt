@@ -396,9 +396,9 @@
     <transition id="transition1" out="00:00:00.160">
       <property name="a_track">0</property>
       <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
       <property name="start">-1</property>
       <property name="accepts_blanks">1</property>
-      <property name="mlt_service">mix</property>
     </transition>
   </tractor>
   <producer id="producer20" in="00:00:00.000" out="00:00:21.080">
@@ -431,9 +431,9 @@
     <transition id="transition3" out="00:00:00.240">
       <property name="a_track">0</property>
       <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
       <property name="start">-1</property>
       <property name="accepts_blanks">1</property>
-      <property name="mlt_service">mix</property>
     </transition>
   </tractor>
   <producer id="producer21" in="00:00:00.000" out="00:00:51.520">
@@ -466,9 +466,9 @@
     <transition id="transition5" out="00:00:00.440">
       <property name="a_track">0</property>
       <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
       <property name="start">-1</property>
       <property name="accepts_blanks">1</property>
-      <property name="mlt_service">mix</property>
     </transition>
   </tractor>
   <producer id="producer22" in="00:00:00.000" out="00:00:45.680">
@@ -501,9 +501,9 @@
     <transition id="transition7" out="00:00:00.480">
       <property name="a_track">0</property>
       <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
       <property name="start">-1</property>
       <property name="accepts_blanks">1</property>
-      <property name="mlt_service">mix</property>
     </transition>
   </tractor>
   <producer id="producer23" in="00:00:00.000" out="00:00:29.400">
@@ -536,9 +536,9 @@
     <transition id="transition9" out="00:00:00.320">
       <property name="a_track">0</property>
       <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
       <property name="start">-1</property>
       <property name="accepts_blanks">1</property>
-      <property name="mlt_service">mix</property>
     </transition>
   </tractor>
   <playlist id="playlist0">
@@ -574,7 +574,7 @@
     <property name="seekable">1</property>
     <filter id="filter5" out="00:00:03.560">
       <property name="argument">Уроки Игры на Караталах</property>
-      <property name="geometry">113 145 498 77 1</property>
+      <property name="geometry">111 127 498 77 1</property>
       <property name="family">Jost</property>
       <property name="size">32</property>
       <property name="weight">500</property>
@@ -594,8 +594,8 @@
       <property name="shotcut:animOut">00:00:00.000</property>
     </filter>
     <filter id="filter6" out="00:00:03.560">
-      <property name="argument">2.2 Звуки</property>
-      <property name="geometry">-1 171 720 144 1</property>
+      <property name="argument">2. Звуки</property>
+      <property name="geometry">0 175 720 144 1</property>
       <property name="family">Jost</property>
       <property name="size">64</property>
       <property name="weight">750</property>
@@ -616,7 +616,7 @@
     </filter>
     <filter id="filter7" out="00:00:03.560">
       <property name="argument">Громкая Техника</property>
-      <property name="geometry">-4 337 723 95 1</property>
+      <property name="geometry">-1 353 722 104 1</property>
       <property name="family">Jost</property>
       <property name="size">48</property>
       <property name="weight">570</property>
@@ -691,11 +691,11 @@
     <property name="xml">was here</property>
     <property name="seekable">1</property>
     <filter id="filter11" in="00:00:00.200" out="00:00:05.840">
-      <property name="argument">1. Звук Так</property>
+      <property name="argument">Так</property>
       <property name="geometry">2 415 718 103 1</property>
       <property name="family">Jost</property>
       <property name="size">48</property>
-      <property name="weight">750</property>
+      <property name="weight">500</property>
       <property name="style">normal</property>
       <property name="fgcolour">#ffffffff</property>
       <property name="bgcolour">#00000000</property>
@@ -756,11 +756,11 @@
     <property name="xml">was here</property>
     <property name="seekable">1</property>
     <filter id="filter15" in="00:00:00.200" out="00:00:05.840">
-      <property name="argument">2. Звук Тхак</property>
+      <property name="argument">Тхак</property>
       <property name="geometry">2 415 718 103 1</property>
       <property name="family">Jost</property>
       <property name="size">48</property>
-      <property name="weight">750</property>
+      <property name="weight">500</property>
       <property name="style">normal</property>
       <property name="fgcolour">#ffffffff</property>
       <property name="bgcolour">#00000000</property>
@@ -821,11 +821,11 @@
     <property name="xml">was here</property>
     <property name="seekable">1</property>
     <filter id="filter19" in="00:00:00.200" out="00:00:05.840">
-      <property name="argument">3. Звук Тек</property>
+      <property name="argument">Тек</property>
       <property name="geometry">2 415 718 103 1</property>
       <property name="family">Jost</property>
       <property name="size">48</property>
-      <property name="weight">750</property>
+      <property name="weight">500</property>
       <property name="style">normal</property>
       <property name="fgcolour">#ffffffff</property>
       <property name="bgcolour">#00000000</property>
@@ -886,11 +886,11 @@
     <property name="xml">was here</property>
     <property name="seekable">1</property>
     <filter id="filter23" in="00:00:00.200" out="00:00:05.840">
-      <property name="argument">4. Ди Ни</property>
+      <property name="argument">Ди Ни</property>
       <property name="geometry">2 415 718 103 1</property>
       <property name="family">Jost</property>
       <property name="size">48</property>
-      <property name="weight">750</property>
+      <property name="weight">500</property>
       <property name="style">normal</property>
       <property name="fgcolour">#ffffffff</property>
       <property name="bgcolour">#00000000</property>
@@ -951,11 +951,11 @@
     <property name="xml">was here</property>
     <property name="seekable">1</property>
     <filter id="filter27" in="00:00:00.200" out="00:00:05.840">
-      <property name="argument">5. Ри Ти</property>
+      <property name="argument">Ри Ти</property>
       <property name="geometry">2 415 718 103 1</property>
       <property name="family">Jost</property>
       <property name="size">48</property>
-      <property name="weight">750</property>
+      <property name="weight">500</property>
       <property name="style">normal</property>
       <property name="fgcolour">#ffffffff</property>
       <property name="bgcolour">#00000000</property>
@@ -1016,11 +1016,11 @@
     <property name="xml">was here</property>
     <property name="seekable">1</property>
     <filter id="filter31" in="00:00:00.200" out="00:00:05.840">
-      <property name="argument">6. Да На</property>
+      <property name="argument">Да На</property>
       <property name="geometry">2 415 718 103 1</property>
       <property name="family">Jost</property>
       <property name="size">48</property>
-      <property name="weight">750</property>
+      <property name="weight">500</property>
       <property name="style">normal</property>
       <property name="fgcolour">#ffffffff</property>
       <property name="bgcolour">#00000000</property>
