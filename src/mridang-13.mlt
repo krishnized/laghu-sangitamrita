@@ -1,0 +1,1450 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="6.25.0" title="Shotcut version 21.01.29" producer="main_bin">
+  <profile description="automatic" width="720" height="540" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="720" display_aspect_den="540" frame_rate_num="25" frame_rate_den="1" colorspace="601"/>
+  <producer id="producer0" in="00:00:00.000" out="00:01:35.600">
+    <property name="length">00:01:35.640</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/09 - Техаи/1 - Дадра тал/Техай (Дадра тал).avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:45:08</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0c797c58f8c5507fd652fc1b0e03c75f</property>
+  </producer>
+  <producer id="producer1" in="00:00:00.000" out="00:01:09.240">
+    <property name="length">00:01:09.280</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/09 - Техаи/2 - Гарба тал техай/Техай (Гарба тал).avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:45:20</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">213dfb3e36eb89ac9f664825e20072ce</property>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="00:01:08.440">
+    <property name="length">00:01:08.480</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/09 - Техаи/3 - Кахарва тал/01 - Арати мантра техай/01 - Техай 1 (Арати мантра).avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:45:28</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">318e0179e8d1e725f269ddd76abb4147</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">01 - Техай 1 (Арати мантра).avi</property>
+  </producer>
+  <producer id="producer3" in="00:00:00.000" out="00:00:37.680">
+    <property name="length">00:00:37.720</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/09 - Техаи/3 - Кахарва тал/02 - Кахарва тал техай 1/Техай 1 (К.т.).avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:45:34</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">9b6dd6c829b69bc129f558c7967a2522</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">Техай 1 (К.т.).avi</property>
+  </producer>
+  <producer id="producer4" in="00:00:00.000" out="00:00:28.560">
+    <property name="length">00:00:28.600</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/09 - Техаи/3 - Кахарва тал/03 - Кахарва тал техай 2/01 - Техай 2.avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:45:36</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f2751a034374763a894bee680eb2d528</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">01 - Техай 2.avi</property>
+  </producer>
+  <producer id="producer5" in="00:00:00.000" out="00:00:27.520">
+    <property name="length">00:00:27.560</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/09 - Техаи/3 - Кахарва тал/03 - Кахарва тал техай 2/02 - Техай 2 (пример).avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:45:40</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f4e949e70d33d206b91a1d0bb1ad9efa</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">02 - Техай 2 (пример).avi</property>
+  </producer>
+  <producer id="producer6" in="00:00:00.000" out="00:00:53.000">
+    <property name="length">00:00:53.040</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/09 - Техаи/3 - Кахарва тал/03 - Кахарва тал техай 2/03 - Техай 2 + 1 (пример).avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:45:42</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">aad9294585cc5ba5927227d7f85af094</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">03 - Техай 2 + 1 (пример).avi</property>
+  </producer>
+  <producer id="producer7" in="00:00:00.000" out="00:00:39.400">
+    <property name="length">00:00:39.440</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/09 - Техаи/Соеден - ный техай.avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:46:34</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">31ec09e1bc67d8c74302f66d1943b227</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">Соеден - ный техай.avi</property>
+  </producer>
+  <producer id="producer8" in="00:00:00.000" out="00:01:06.960">
+    <property name="length">00:01:07.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/09 - Техаи/4 - Д.Кахарва тал/01 - Д-кахарва тал/01 - Техай 1.avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:45:48</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3b00ed3ed6e99f26240da7b53dbafc6c</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">01 - Техай 1.avi</property>
+  </producer>
+  <producer id="producer9" in="00:00:00.000" out="00:00:39.200">
+    <property name="length">00:00:39.240</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/09 - Техаи/4 - Д.Кахарва тал/01 - Д-кахарва тал/02 - Техай 2.avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:45:54</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7854c9c34e87ae9a01364c7e5b047728</property>
+  </producer>
+  <producer id="producer10" in="00:00:00.000" out="00:00:34.040">
+    <property name="length">00:00:34.080</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/09 - Техаи/4 - Д.Кахарва тал/01 - Д-кахарва тал/03 - Техай 3.avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:45:56</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">669916f26e48083210ff3d40308ddd10</property>
+  </producer>
+  <producer id="producer11" in="00:00:00.000" out="00:00:49.560">
+    <property name="length">00:00:49.600</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/09 - Техаи/4 - Д.Кахарва тал/01 - Д-кахарва тал/04 - Техай 4.avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:45:58</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c8ae12289b2e2bcd6eb5da8b27734cb2</property>
+  </producer>
+  <producer id="producer12" in="00:00:00.000" out="00:00:43.960">
+    <property name="length">00:00:44.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/09 - Техаи/4 - Д.Кахарва тал/01 - Д-кахарва тал/05 - Техай 5.avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:46:02</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">2fcac136096ec6baca8c35bec3a59270</property>
+  </producer>
+  <producer id="producer13" in="00:00:00.000" out="00:00:31.400">
+    <property name="length">00:00:31.440</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/09 - Техаи/4 - Д.Кахарва тал/01 - Д-кахарва тал/06 - Техай 6.avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:46:08</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c1e1a0d785745e5177709c1b62d72d83</property>
+  </producer>
+  <producer id="producer14" in="00:00:00.000" out="00:00:37.880">
+    <property name="length">00:00:37.920</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/09 - Техаи/4 - Д.Кахарва тал/01 - Д-кахарва тал/07 - Техай 7.avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:46:10</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">494e4651ee3dabfd922414f326f95c3c</property>
+  </producer>
+  <producer id="producer15" in="00:00:00.000" out="00:00:50.040">
+    <property name="length">00:00:50.080</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/09 - Техаи/4 - Д.Кахарва тал/01 - Д-кахарва тал/08 - Техай 8.avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:46:12</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">823172dd221162088432a9750ed4d3d9</property>
+  </producer>
+  <producer id="producer16" in="00:00:00.000" out="00:00:25.560">
+    <property name="length">00:00:25.600</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/09 - Техаи/4 - Д.Кахарва тал/01 - Д-кахарва тал/09 - Техай 9.avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:46:16</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e5265afc80ef8583052b16e6066515f8</property>
+  </producer>
+  <producer id="producer17" in="00:00:00.000" out="00:00:26.200">
+    <property name="length">00:00:26.240</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/09 - Техаи/4 - Д.Кахарва тал/01 - Д-кахарва тал/10 - Техай 10.avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:46:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3004cc91979ba3ee12ad59fe44c12ecd</property>
+  </producer>
+  <producer id="producer18" in="00:00:00.000" out="00:00:27.760">
+    <property name="length">00:00:27.800</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/09 - Техаи/4 - Д.Кахарва тал/01 - Д-кахарва тал/11 - Техай 11.avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:46:22</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">75ce459d9711f95804fefdbb72d586a6</property>
+  </producer>
+  <producer id="producer19" in="00:00:00.000" out="00:00:36.160">
+    <property name="length">00:00:36.200</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/09 - Техаи/4 - Д.Кахарва тал/01 - Д-кахарва тал/12 - Техай 12.avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:46:24</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">35b2dd7090f582bb250e70bb331e8fe9</property>
+  </producer>
+  <producer id="producer20" in="00:00:00.000" out="00:00:37.760">
+    <property name="length">00:00:37.800</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/09 - Техаи/4 - Д.Кахарва тал/02 - Мантры для игры стоя и Харинам/01 - Техай (мантра 1) (2).avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:46:26</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c6cf8319d93aead83b26f577543caeba</property>
+  </producer>
+  <producer id="producer21" in="00:00:00.000" out="00:00:37.760">
+    <property name="length">00:00:37.800</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/09 - Техаи/4 - Д.Кахарва тал/02 - Мантры для игры стоя и Харинам/01 - Техай (мантра 1).avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:46:26</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b190edf4898f55cf010fc72cfaede5b5</property>
+  </producer>
+  <producer id="producer22" in="00:00:00.000" out="00:00:44.120">
+    <property name="length">00:00:44.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/09 - Техаи/4 - Д.Кахарва тал/02 - Мантры для игры стоя и Харинам/02 - Техай (мантра 2).avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:46:32</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">88bc7267748fe26fa7f6c608a3b8427f</property>
+  </producer>
+  <playlist id="main_bin" title="Shotcut version 21.01.29">
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:01:35.600"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:01:09.240"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:01:08.440"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:37.680"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:28.560"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:27.520"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:53.000"/>
+    <entry producer="producer7" in="00:00:00.000" out="00:00:39.400"/>
+    <entry producer="producer8" in="00:00:00.000" out="00:01:06.960"/>
+    <entry producer="producer9" in="00:00:00.000" out="00:00:39.200"/>
+    <entry producer="producer10" in="00:00:00.000" out="00:00:34.040"/>
+    <entry producer="producer11" in="00:00:00.000" out="00:00:49.560"/>
+    <entry producer="producer12" in="00:00:00.000" out="00:00:43.960"/>
+    <entry producer="producer13" in="00:00:00.000" out="00:00:31.400"/>
+    <entry producer="producer14" in="00:00:00.000" out="00:00:37.880"/>
+    <entry producer="producer15" in="00:00:00.000" out="00:00:50.040"/>
+    <entry producer="producer16" in="00:00:00.000" out="00:00:25.560"/>
+    <entry producer="producer17" in="00:00:00.000" out="00:00:26.200"/>
+    <entry producer="producer18" in="00:00:00.000" out="00:00:27.760"/>
+    <entry producer="producer19" in="00:00:00.000" out="00:00:36.160"/>
+    <entry producer="producer20" in="00:00:00.000" out="00:00:37.760"/>
+    <entry producer="producer21" in="00:00:00.000" out="00:00:37.760"/>
+    <entry producer="producer22" in="00:00:00.000" out="00:00:44.120"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:03:22.760">
+    <property name="length">00:03:22.800</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:03:22.760"/>
+  </playlist>
+  <producer id="producer23" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">mridang-13.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-03-11T13:25:50</property>
+    <property name="shotcut:hash">15b497fd054977602fd38d2cd0e7f97a</property>
+    <property name="global_feed">1</property>
+    <property name="shotcut:caption">mridang-13.png</property>
+    <filter id="filter0" out="00:00:01.480">
+      <property name="version">0.2</property>
+      <property name="mlt_service">frei0r.IIRblur</property>
+      <property name="shotcut:filter">blur_gaussian</property>
+      <property name="1">0.99</property>
+      <property name="0">0.35</property>
+    </filter>
+  </producer>
+  <producer id="producer24" in="00:00:00.000" out="00:01:35.600">
+    <property name="length">00:01:35.640</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/09 - Техаи/1 - Дадра тал/Техай (Дадра тал).avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:45:08</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0c797c58f8c5507fd652fc1b0e03c75f</property>
+    <property name="shotcut:caption">Техай (Дадра тал).avi</property>
+    <filter id="filter1" in="00:00:00.040" out="00:01:35.600">
+      <property name="version">0.2</property>
+      <property name="mlt_service">frei0r.c0rners</property>
+      <property name="0">0.322667</property>
+      <property name="1">0.333333</property>
+      <property name="2">0.677333</property>
+      <property name="3">0.333333</property>
+      <property name="4">0.6773</property>
+      <property name="5">0.666667</property>
+      <property name="6">0.322667</property>
+      <property name="7">0.666667</property>
+      <property name="8">1</property>
+      <property name="9">0.5</property>
+      <property name="10">0.5</property>
+      <property name="11">0.333333</property>
+      <property name="12">1</property>
+      <property name="14">0</property>
+      <property name="13">0.01</property>
+      <property name="shotcut:corner1">0.322667 0.333333 1 1</property>
+      <property name="shotcut:corner2">0.677333 0.333333 1 1</property>
+      <property name="shotcut:corner3">0.6773 0.666667 1 1</property>
+      <property name="shotcut:corner4">0.322667 0.666667 1 1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <tractor id="tractor0" global_feed="1" in="00:00:00.000" out="00:00:00.040">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer23" in="00:00:01.400" out="00:00:01.440"/>
+    <track producer="producer24" in="00:00:00.040" out="00:00:00.080"/>
+    <transition id="transition0" out="00:00:00.040">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition1" out="00:00:00.040">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer25" in="00:00:00.000" out="00:01:09.240">
+    <property name="length">00:01:09.280</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/09 - Техаи/2 - Гарба тал техай/Техай (Гарба тал).avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:45:20</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">213dfb3e36eb89ac9f664825e20072ce</property>
+    <property name="shotcut:caption">Техай (Гарба тал).avi</property>
+    <filter id="filter2" out="00:01:09.240">
+      <property name="version">0.2</property>
+      <property name="mlt_service">frei0r.c0rners</property>
+      <property name="0">0.322667</property>
+      <property name="1">0.333333</property>
+      <property name="2">0.677333</property>
+      <property name="3">0.333333</property>
+      <property name="4">0.6773</property>
+      <property name="5">0.666667</property>
+      <property name="6">0.322667</property>
+      <property name="7">0.666667</property>
+      <property name="8">1</property>
+      <property name="9">0.5</property>
+      <property name="10">0.5</property>
+      <property name="11">0.333333</property>
+      <property name="12">1</property>
+      <property name="14">0</property>
+      <property name="13">0.01</property>
+      <property name="shotcut:corner1">0.322667 0.333333 1 1</property>
+      <property name="shotcut:corner2">0.677333 0.333333 1 1</property>
+      <property name="shotcut:corner3">0.6773 0.666667 1 1</property>
+      <property name="shotcut:corner4">0.322667 0.666667 1 1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <tractor id="tractor1" global_feed="1" in="00:00:00.000" out="00:00:00.160">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer24" in="00:01:35.440" out="00:01:35.600"/>
+    <track producer="producer25" in="00:00:00.000" out="00:00:00.160"/>
+    <transition id="transition2" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition3" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer26" in="00:00:00.000" out="00:00:39.400">
+    <property name="length">00:00:39.440</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/09 - Техаи/Соеден - ный техай.avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:46:34</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">31ec09e1bc67d8c74302f66d1943b227</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">Соеден - ный техай.avi</property>
+    <filter id="filter3" in="00:00:02.520" out="00:00:39.400">
+      <property name="version">0.2</property>
+      <property name="mlt_service">frei0r.c0rners</property>
+      <property name="0">0.322667</property>
+      <property name="1">0.333333</property>
+      <property name="2">0.677333</property>
+      <property name="3">0.333333</property>
+      <property name="4">0.6773</property>
+      <property name="5">0.666667</property>
+      <property name="6">0.322667</property>
+      <property name="7">0.666667</property>
+      <property name="8">1</property>
+      <property name="9">0.5</property>
+      <property name="10">0.5</property>
+      <property name="11">0.333333</property>
+      <property name="12">1</property>
+      <property name="14">0</property>
+      <property name="13">0.01</property>
+      <property name="shotcut:corner1">0.322667 0.333333 1 1</property>
+      <property name="shotcut:corner2">0.677333 0.333333 1 1</property>
+      <property name="shotcut:corner3">0.6773 0.666667 1 1</property>
+      <property name="shotcut:corner4">0.322667 0.666667 1 1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <tractor id="tractor2" global_feed="1" in="00:00:00.000" out="00:00:00.160">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer25" in="00:01:09.080" out="00:01:09.240"/>
+    <track producer="producer26" in="00:00:02.520" out="00:00:02.680"/>
+    <transition id="transition4" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition5" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="producer23" in="00:00:00.000" out="00:00:01.360"/>
+    <entry producer="tractor0" in="00:00:00.000" out="00:00:00.040"/>
+    <entry producer="producer24" in="00:00:00.120" out="00:01:35.400"/>
+    <entry producer="tractor1" in="00:00:00.000" out="00:00:00.160"/>
+    <entry producer="producer25" in="00:00:00.200" out="00:01:09.040"/>
+    <entry producer="tractor2" in="00:00:00.000" out="00:00:00.160"/>
+    <entry producer="producer26" in="00:00:02.720" out="00:00:39.400"/>
+  </playlist>
+  <producer id="producer32" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter6" out="00:00:01.480">
+      <property name="argument">Уроки Игры на Мриданге</property>
+      <property name="geometry">111 128 498 77 1</property>
+      <property name="family">Jost</property>
+      <property name="size">32</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">32</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter7" out="00:00:01.480">
+      <property name="argument">13. Техай</property>
+      <property name="geometry">65 153 586 193 1</property>
+      <property name="family">Jost</property>
+      <property name="size">64</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">64</property>
+    </filter>
+    <filter id="filter8" out="00:00:01.480">
+      <property name="argument">Дадра и Гарба Тал</property>
+      <property name="geometry">126 176 489 187 1</property>
+      <property name="family">Jost</property>
+      <property name="size">48</property>
+      <property name="weight">570</property>
+      <property name="style">italic</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">48</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter9" out="00:00:01.480">
+      <property name="argument">Дадра и Гарба тал</property>
+      <property name="geometry">114 350 492 146 1</property>
+      <property name="family">Jost</property>
+      <property name="size">48</property>
+      <property name="weight">570</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aaffffff</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">48</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter10" out="00:00:01.480">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">00:00:01.080=1;00:00:01.480=0</property>
+      <property name="shotcut:animOut">00:00:00.440</property>
+    </filter>
+    <filter id="filter11" out="00:00:01.480">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 0 720 540 1;00:00:00.280=-5.04 -4 730.08 548 1;00:00:01.480=0 0 720 540 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:01.120</property>
+      <property name="shotcut:animOut">00:00:01.240</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">00:00:00.000=0;00:00:00.280=0;00:00:01.480=0</property>
+    </filter>
+    <filter id="filter12" out="00:00:01.480">
+      <property name="start">1</property>
+      <property name="hori">00:00:00.000=5.18636;00:00:00.760=0</property>
+      <property name="vert">00:00:00.000=6.98458;00:00:00.600=0</property>
+      <property name="mlt_service">boxblur</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter13" out="00:00:01.480">
+      <property name="version">0.2</property>
+      <property name="mlt_service">frei0r.premultiply</property>
+      <property name="threads">0</property>
+      <property name="0">1</property>
+    </filter>
+    <filter id="filter14" out="00:00:01.480">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">00:00:00.000=0;00:00:00.400=1</property>
+      <property name="shotcut:animIn">00:00:00.440</property>
+    </filter>
+  </producer>
+  <producer id="producer28" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter16" in="00:00:04.760" out="00:00:06.320">
+      <property name="argument">Техай на дадра тал</property>
+      <property name="geometry">83 415 555 91 1</property>
+      <property name="family">Jost</property>
+      <property name="size">48</property>
+      <property name="weight">630</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">48</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter17" in="00:00:04.760" out="00:00:06.320">
+      <property name="argument"></property>
+      <property name="geometry">72 412 576 107 1</property>
+      <property name="family">Jost</property>
+      <property name="size">48</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">48</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter18" in="00:00:04.760" out="00:00:06.320">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">00:00:01.280=1;00:00:01.560=0</property>
+      <property name="shotcut:animOut">00:00:00.320</property>
+    </filter>
+    <filter id="filter19" in="00:00:04.760" out="00:00:06.320">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">00:00:00.000=0;00:00:00.280=1</property>
+      <property name="shotcut:animIn">00:00:00.320</property>
+    </filter>
+    <filter id="filter20" in="00:00:04.760" out="00:00:06.320">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 0 720 540 1;00:00:00.280=-5.04 -4 730.08 548 1;00:00:01.480=0 0 720 540 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:01.120</property>
+      <property name="shotcut:animOut">00:00:01.240</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">00:00:00.000=0;00:00:00.280=0;00:00:01.480=0</property>
+    </filter>
+  </producer>
+  <producer id="producer27" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter4" in="00:00:04.760" out="00:00:10.160">
+      <property name="argument">Техай на дадра тал</property>
+      <property name="geometry">83 415 555 91 1</property>
+      <property name="family">Jost</property>
+      <property name="size">48</property>
+      <property name="weight">630</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">48</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter5" in="00:00:04.760" out="00:00:10.160">
+      <property name="argument">– Дхета (тета гета) ǁ Дха ...</property>
+      <property name="geometry">72 412 576 107 1</property>
+      <property name="family">Jost</property>
+      <property name="size">48</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">48</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter15" in="00:00:04.760" out="00:00:10.160">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">00:00:05.120=1;00:00:05.400=0</property>
+      <property name="shotcut:animOut">00:00:00.320</property>
+    </filter>
+    <filter id="filter21" in="00:00:04.760" out="00:00:10.160">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">00:00:00.000=0;00:00:00.280=1</property>
+      <property name="shotcut:animIn">00:00:00.320</property>
+    </filter>
+    <filter id="filter22" in="00:00:04.760" out="00:00:10.160">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 0 720 540 1;00:00:04.200=-5.04 -4 730.08 548 1;00:00:05.400=0 0 720 540 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:01.120</property>
+      <property name="shotcut:animOut">00:00:01.240</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">00:00:00.000=0;00:00:04.200=0;00:00:05.400=0</property>
+    </filter>
+  </producer>
+  <producer id="producer29" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter23" in="00:00:04.760" out="00:00:10.600">
+      <property name="argument">Техай на дадра тал</property>
+      <property name="geometry">83 415 555 91 1</property>
+      <property name="family">Jost</property>
+      <property name="size">48</property>
+      <property name="weight">630</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">48</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter24" in="00:00:04.760" out="00:00:10.600">
+      <property name="argument">Дхе – тата ǀ те тете тата
+Дхер -(ге) тега | Дха Дхета (тета гета)</property>
+      <property name="geometry">72 412 576 107 1</property>
+      <property name="family">Jost</property>
+      <property name="size">48</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">48</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter25" in="00:00:04.760" out="00:00:10.600">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">00:00:05.560=1;00:00:05.840=0</property>
+      <property name="shotcut:animOut">00:00:00.320</property>
+    </filter>
+    <filter id="filter26" in="00:00:04.760" out="00:00:10.600">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">00:00:00.000=0;00:00:00.280=1</property>
+      <property name="shotcut:animIn">00:00:00.320</property>
+    </filter>
+    <filter id="filter27" in="00:00:04.760" out="00:00:10.600">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 0 720 540 1;00:00:01.440=-5.04 -4 730.08 548 1;00:00:02.640=0 0 720 540 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:01.120</property>
+      <property name="shotcut:animOut">00:00:01.240</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">00:00:00.000=0;00:00:01.440=0;00:00:02.640=0</property>
+    </filter>
+  </producer>
+  <producer id="producer30" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter28" in="00:00:04.760" out="00:00:06.520">
+      <property name="argument">Техай на гарба тал</property>
+      <property name="geometry">83 415 555 91 1</property>
+      <property name="family">Jost</property>
+      <property name="size">48</property>
+      <property name="weight">630</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">48</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter29" in="00:00:04.760" out="00:00:06.520">
+      <property name="argument"></property>
+      <property name="geometry">72 412 576 107 1</property>
+      <property name="family">Jost</property>
+      <property name="size">48</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">48</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter30" in="00:00:04.760" out="00:00:06.520">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">00:00:01.480=1;00:00:01.760=0</property>
+      <property name="shotcut:animOut">00:00:00.320</property>
+    </filter>
+    <filter id="filter31" in="00:00:04.760" out="00:00:06.520">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">00:00:00.000=0;00:00:00.280=1</property>
+      <property name="shotcut:animIn">00:00:00.320</property>
+    </filter>
+    <filter id="filter32" in="00:00:04.760" out="00:00:06.520">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 0 720 540 1;00:00:00.560=-5.04 -4 730.08 548 1;00:00:01.760=0 0 720 540 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:01.120</property>
+      <property name="shotcut:animOut">00:00:01.240</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">00:00:00.000=0;00:00:00.560=0;00:00:01.760=0</property>
+    </filter>
+  </producer>
+  <producer id="producer31" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter33" in="00:00:04.760" out="00:00:18.120">
+      <property name="argument">Техай на дадра тал</property>
+      <property name="geometry">83 415 555 91 1</property>
+      <property name="family">Jost</property>
+      <property name="size">48</property>
+      <property name="weight">630</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">48</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter34" in="00:00:04.760" out="00:00:18.120">
+      <property name="argument">Дхар Дхар | – Дхар | Дхар – 
+Дхар тета | гате Дха | Дха –</property>
+      <property name="geometry">72 412 576 107 1</property>
+      <property name="family">Jost</property>
+      <property name="size">48</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">48</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter35" in="00:00:04.760" out="00:00:18.120">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">00:00:13.080=1;00:00:13.360=0</property>
+      <property name="shotcut:animOut">00:00:00.320</property>
+    </filter>
+    <filter id="filter36" in="00:00:04.760" out="00:00:18.120">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">00:00:00.000=0;00:00:00.280=1</property>
+      <property name="shotcut:animIn">00:00:00.320</property>
+    </filter>
+    <filter id="filter37" in="00:00:04.760" out="00:00:18.120">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 0 720 540 1;00:00:12.160=-5.04 -4 730.08 548 1;00:00:13.360=0 0 720 540 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:01.120</property>
+      <property name="shotcut:animOut">00:00:01.240</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">00:00:00.000=0;00:00:12.160=0;00:00:13.360=0</property>
+    </filter>
+  </producer>
+  <producer id="producer33" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter38" in="00:00:04.760" out="00:00:07.680">
+      <property name="argument">Техай с дадра
+на кахарва тал</property>
+      <property name="geometry">39 395 648 127 1</property>
+      <property name="family">Jost</property>
+      <property name="size">48</property>
+      <property name="weight">630</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">48</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter39" in="00:00:04.760" out="00:00:07.680">
+      <property name="argument"></property>
+      <property name="geometry">72 412 576 107 1</property>
+      <property name="family">Jost</property>
+      <property name="size">48</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">48</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter40" in="00:00:04.760" out="00:00:07.680">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">00:00:02.640=1;00:00:02.920=0</property>
+      <property name="shotcut:animOut">00:00:00.320</property>
+    </filter>
+    <filter id="filter41" in="00:00:04.760" out="00:00:07.680">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">00:00:00.000=0;00:00:00.280=1</property>
+      <property name="shotcut:animIn">00:00:00.320</property>
+    </filter>
+    <filter id="filter42" in="00:00:04.760" out="00:00:07.680">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 0 720 540 1;00:00:01.720=-5.04 -4 730.08 548 1;00:00:02.920=0 0 720 540 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:01.120</property>
+      <property name="shotcut:animOut">00:00:01.240</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">00:00:00.000=0;00:00:01.720=0;00:00:02.920=0</property>
+    </filter>
+  </producer>
+  <producer id="producer34" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter43" in="00:00:04.760" out="00:00:06.280">
+      <property name="argument">Техай на дадра тал</property>
+      <property name="geometry">83 415 555 91 1</property>
+      <property name="family">Jost</property>
+      <property name="size">48</property>
+      <property name="weight">630</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">48</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter44" in="00:00:04.760" out="00:00:06.280">
+      <property name="argument">Дхар Дхар Дхар Дхар</property>
+      <property name="geometry">72 412 576 107 1</property>
+      <property name="family">Jost</property>
+      <property name="size">48</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">48</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter45" in="00:00:04.760" out="00:00:06.280">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">00:00:01.240=1;00:00:01.520=0</property>
+      <property name="shotcut:animOut">00:00:00.320</property>
+    </filter>
+    <filter id="filter46" in="00:00:04.760" out="00:00:06.280">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">00:00:00.000=0;00:00:00.280=1</property>
+      <property name="shotcut:animIn">00:00:00.320</property>
+    </filter>
+    <filter id="filter47" in="00:00:04.760" out="00:00:06.280">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 0 720 540 1;00:00:00.320=-5.04 -4 730.08 548 1;00:00:01.520=0 0 720 540 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:01.120</property>
+      <property name="shotcut:animOut">00:00:01.240</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">00:00:00.000=0;00:00:00.320=0;00:00:01.520=0</property>
+    </filter>
+  </producer>
+  <playlist id="playlist3">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V2</property>
+    <entry producer="producer32" in="00:00:00.000" out="00:00:01.480"/>
+    <entry producer="producer28" in="00:00:04.760" out="00:00:06.320"/>
+    <blank length="00:00:01.080"/>
+    <entry producer="producer27" in="00:00:04.760" out="00:00:10.160"/>
+    <blank length="00:00:06.920"/>
+    <entry producer="producer29" in="00:00:04.760" out="00:00:10.600"/>
+    <blank length="00:01:14.360"/>
+    <entry producer="producer30" in="00:00:04.760" out="00:00:06.520"/>
+    <blank length="00:00:00.960"/>
+    <entry producer="producer31" in="00:00:04.760" out="00:00:18.120"/>
+    <blank length="00:00:53.120"/>
+    <entry producer="producer33" in="00:00:04.760" out="00:00:07.680"/>
+    <blank length="00:00:02.720"/>
+    <entry producer="producer34" in="00:00:04.760" out="00:00:06.280"/>
+  </playlist>
+  <playlist id="playlist2">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <blank length="00:00:00.040"/>
+  </playlist>
+  <tractor id="tractor9" title="Shotcut version 21.01.29" global_feed="1" in="00:00:00.000" out="00:03:22.760">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="shotcut:scaleFactor">2.62089</property>
+    <property name="shotcut:trackHeight">52</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist3"/>
+    <track producer="playlist2" hide="video"/>
+    <transition id="transition18">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition19">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition22">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition23">
+      <property name="a_track">1</property>
+      <property name="b_track">2</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition24">
+      <property name="a_track">0</property>
+      <property name="b_track">3</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+  </tractor>
+</mlt>

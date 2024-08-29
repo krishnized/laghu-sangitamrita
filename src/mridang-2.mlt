@@ -1,0 +1,966 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="6.25.0" title="Shotcut version 21.01.29" producer="main_bin">
+  <profile description="automatic" width="720" height="540" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="720" display_aspect_den="540" frame_rate_num="25" frame_rate_den="1" colorspace="601"/>
+  <producer id="producer0" in="00:00:00.000" out="00:01:52.800">
+    <property name="length">00:01:52.840</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/01 - Постановка тела при игре/Постановка тела при игре.avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:40:30</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">4bada9718ddece217c908430dd55d7c4</property>
+  </producer>
+  <producer id="producer1" in="00:00:00.000" out="00:01:17.840">
+    <property name="length">00:01:17.880</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/02 - Постановка рук/01 - Постановка рук.avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:40:40</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">05473ce752c33a49b5e4e68eb4c17dd6</property>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="00:00:57.680">
+    <property name="length">00:00:57.720</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/02 - Постановка рук/02 - Правая рука.avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:40:46</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">25a3fd80bbb32b0b29177509b13dd597</property>
+  </producer>
+  <producer id="producer3" in="00:00:00.000" out="00:01:07.720">
+    <property name="length">00:01:07.760</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/02 - Постановка рук/03 - Левая рука.avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:40:52</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7fe2cb2f136b0508d7fec1aca5b9c6e8</property>
+  </producer>
+  <producer id="producer4" in="00:00:00.000" out="00:00:51.880">
+    <property name="length">00:00:51.920</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/02 - Постановка рук/04 - Качество звука.avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:40:56</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">61326e730fdc3af4e4358f522bac8e4b</property>
+  </producer>
+  <playlist id="main_bin" title="Shotcut version 21.01.29">
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:01:52.800"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:01:17.840"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:57.680"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:01:07.720"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:51.880"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:04:36.000">
+    <property name="length">00:04:36.040</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:04:36.000"/>
+  </playlist>
+  <producer id="producer5" in="00:00:00.000" out="00:01:17.840">
+    <property name="length">00:01:17.880</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/02 - Постановка рук/01 - Постановка рук.avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:40:40</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">05473ce752c33a49b5e4e68eb4c17dd6</property>
+    <property name="shotcut:caption">01 - Постановка рук.avi</property>
+    <filter id="filter0" in="00:00:00.040" out="00:01:17.840">
+      <property name="version">0.2</property>
+      <property name="mlt_service">frei0r.c0rners</property>
+      <property name="0">0.322667</property>
+      <property name="1">0.333333</property>
+      <property name="2">0.677333</property>
+      <property name="3">0.333333</property>
+      <property name="4">0.6773</property>
+      <property name="5">0.666667</property>
+      <property name="6">0.322667</property>
+      <property name="7">0.666667</property>
+      <property name="8">1</property>
+      <property name="9">0.5</property>
+      <property name="10">0.5</property>
+      <property name="11">0.333333</property>
+      <property name="12">1</property>
+      <property name="14">0</property>
+      <property name="13">0.01</property>
+      <property name="shotcut:corner1">0.322667 0.333333 1</property>
+      <property name="shotcut:corner2">0.677333 0.333333 1</property>
+      <property name="shotcut:corner3">0.6773 0.666667 1</property>
+      <property name="shotcut:corner4">0.322667 0.666667 1</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter1" in="00:00:00.040" out="00:01:17.840">
+      <property name="version">0.2</property>
+      <property name="mlt_service">frei0r.IIRblur</property>
+      <property name="shotcut:filter">blur_gaussian</property>
+      <property name="1">0.99</property>
+      <property name="0">00:00:01.280=0;00:00:01.840=0.375057;00:00:02.320=0.37234;00:00:02.400=0.375022;00:00:03.080=0.37234;00:00:04.160=0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <producer id="producer6" in="00:00:00.000" out="00:00:57.680">
+    <property name="length">00:00:57.720</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/02 - Постановка рук/02 - Правая рука.avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:40:46</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">25a3fd80bbb32b0b29177509b13dd597</property>
+    <property name="shotcut:caption">02 - Правая рука.avi</property>
+    <filter id="filter2" out="00:00:57.680">
+      <property name="version">0.2</property>
+      <property name="mlt_service">frei0r.c0rners</property>
+      <property name="0">0.322667</property>
+      <property name="1">0.333333</property>
+      <property name="2">0.677333</property>
+      <property name="3">0.333333</property>
+      <property name="4">0.6773</property>
+      <property name="5">0.666667</property>
+      <property name="6">0.322667</property>
+      <property name="7">0.666667</property>
+      <property name="8">1</property>
+      <property name="9">0.5</property>
+      <property name="10">0.5</property>
+      <property name="11">0.333333</property>
+      <property name="12">1</property>
+      <property name="14">0</property>
+      <property name="13">0.01</property>
+      <property name="shotcut:corner1">0.322667 0.333333 1 1</property>
+      <property name="shotcut:corner2">0.677333 0.333333 1 1</property>
+      <property name="shotcut:corner3">0.6773 0.666667 1 1</property>
+      <property name="shotcut:corner4">0.322667 0.666667 1 1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <tractor id="tractor0" global_feed="1" in="00:00:00.000" out="00:00:00.200">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer5" in="00:01:17.640" out="00:01:17.840"/>
+    <track producer="producer6" in="00:00:00.000" out="00:00:00.200"/>
+    <transition id="transition0" out="00:00:00.200">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition1" out="00:00:00.200">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+  </tractor>
+  <producer id="producer7" in="00:00:00.000" out="00:00:26.480">
+    <property name="length">00:00:26.520</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/03 - Звуки/01 - Постановка пальцев правой руки/01 - Постановка пальцев правой руки.avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:41:02</property>
+    <property name="shotcut:hash">dde87aec2ea698b2143901f8c0458668</property>
+    <property name="global_feed">1</property>
+    <property name="shotcut:caption">01 - Постановка пальцев правой руки.avi</property>
+    <property name="xml">was here</property>
+    <filter id="filter3" in="00:00:04.760" out="00:00:26.480">
+      <property name="version">0.2</property>
+      <property name="mlt_service">frei0r.c0rners</property>
+      <property name="0">0.322667</property>
+      <property name="1">0.333333</property>
+      <property name="2">0.677333</property>
+      <property name="3">0.333333</property>
+      <property name="4">0.6773</property>
+      <property name="5">0.666667</property>
+      <property name="6">0.322667</property>
+      <property name="7">0.666667</property>
+      <property name="8">1</property>
+      <property name="9">0.5</property>
+      <property name="10">0.5</property>
+      <property name="11">0.333333</property>
+      <property name="12">1</property>
+      <property name="14">0</property>
+      <property name="13">0.01</property>
+      <property name="shotcut:corner1">0.322667 0.333333 1 1</property>
+      <property name="shotcut:corner2">0.677333 0.333333 1 1</property>
+      <property name="shotcut:corner3">0.6773 0.666667 1 1</property>
+      <property name="shotcut:corner4">0.322667 0.666667 1 1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <tractor id="tractor1" global_feed="1" in="00:00:00.000" out="00:00:00.160">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer6" in="00:00:57.520" out="00:00:57.680"/>
+    <track producer="producer7" in="00:00:04.760" out="00:00:04.920"/>
+    <transition id="transition2" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition3" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+  </tractor>
+  <producer id="producer8" in="00:00:00.000" out="00:01:07.720">
+    <property name="length">00:01:07.760</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/02 - Постановка рук/03 - Левая рука.avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:40:52</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7fe2cb2f136b0508d7fec1aca5b9c6e8</property>
+    <property name="shotcut:caption">03 - Левая рука.avi</property>
+    <filter id="filter4" out="00:01:07.720">
+      <property name="version">0.2</property>
+      <property name="mlt_service">frei0r.c0rners</property>
+      <property name="0">0.322667</property>
+      <property name="1">0.333333</property>
+      <property name="2">0.677333</property>
+      <property name="3">0.333333</property>
+      <property name="4">0.6773</property>
+      <property name="5">0.666667</property>
+      <property name="6">0.322667</property>
+      <property name="7">0.666667</property>
+      <property name="8">1</property>
+      <property name="9">0.5</property>
+      <property name="10">0.5</property>
+      <property name="11">0.333333</property>
+      <property name="12">1</property>
+      <property name="14">0</property>
+      <property name="13">0.01</property>
+      <property name="shotcut:corner1">0.322667 0.333333 1 1</property>
+      <property name="shotcut:corner2">0.677333 0.333333 1 1</property>
+      <property name="shotcut:corner3">0.6773 0.666667 1 1</property>
+      <property name="shotcut:corner4">0.322667 0.666667 1 1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <tractor id="tractor2" global_feed="1" in="00:00:00.000" out="00:00:00.160">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer7" in="00:00:26.320" out="00:00:26.480"/>
+    <track producer="producer8" in="00:00:00.000" out="00:00:00.160"/>
+    <transition id="transition4" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition5" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+  </tractor>
+  <producer id="producer9" in="00:00:00.000" out="00:00:51.880">
+    <property name="length">00:00:51.920</property>
+    <property name="eof">pause</property>
+    <property name="resource">/Users/div/projects/laghu-sangitamrita/media/Мриданга/02 - Постановка рук/04 - Качество звука.avi</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-01T20:40:56</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">61326e730fdc3af4e4358f522bac8e4b</property>
+    <property name="shotcut:caption">04 - Качество звука.avi</property>
+    <filter id="filter5" out="00:00:51.880">
+      <property name="version">0.2</property>
+      <property name="mlt_service">frei0r.c0rners</property>
+      <property name="0">0.322667</property>
+      <property name="1">0.333333</property>
+      <property name="2">0.677333</property>
+      <property name="3">0.333333</property>
+      <property name="4">0.6773</property>
+      <property name="5">0.666667</property>
+      <property name="6">0.322667</property>
+      <property name="7">0.666667</property>
+      <property name="8">1</property>
+      <property name="9">0.5</property>
+      <property name="10">0.5</property>
+      <property name="11">0.333333</property>
+      <property name="12">1</property>
+      <property name="14">0</property>
+      <property name="13">0.01</property>
+      <property name="shotcut:corner1">0.322667 0.333333 1 1</property>
+      <property name="shotcut:corner2">0.677333 0.333333 1 1</property>
+      <property name="shotcut:corner3">0.6773 0.666667 1 1</property>
+      <property name="shotcut:corner4">0.322667 0.666667 1 1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <tractor id="tractor3" global_feed="1" in="00:00:00.000" out="00:00:00.280">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer8" in="00:01:07.440" out="00:01:07.720"/>
+    <track producer="producer9" in="00:00:00.000" out="00:00:00.280"/>
+    <transition id="transition6" out="00:00:00.280">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition7" out="00:00:00.280">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="producer5" in="00:00:00.040" out="00:01:17.600"/>
+    <entry producer="tractor0" in="00:00:00.000" out="00:00:00.200"/>
+    <entry producer="producer6" in="00:00:00.240" out="00:00:57.480"/>
+    <entry producer="tractor1" in="00:00:00.000" out="00:00:00.160"/>
+    <entry producer="producer7" in="00:00:04.960" out="00:00:26.280"/>
+    <entry producer="tractor2" in="00:00:00.000" out="00:00:00.160"/>
+    <entry producer="producer8" in="00:00:00.200" out="00:01:07.400"/>
+    <entry producer="tractor3" in="00:00:00.000" out="00:00:00.280"/>
+    <entry producer="producer9" in="00:00:00.320" out="00:00:51.880"/>
+  </playlist>
+  <producer id="producer32" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter6" out="00:00:02.360">
+      <property name="argument">Уроки Игры на Мриданге</property>
+      <property name="geometry">111 128 498 77 1</property>
+      <property name="family">Jost</property>
+      <property name="size">32</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">32</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter7" out="00:00:02.360">
+      <property name="argument">2.  Постановка рук</property>
+      <property name="geometry">0 200 720 189 1</property>
+      <property name="family">Jost</property>
+      <property name="size">64</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">64</property>
+    </filter>
+    <filter id="filter8" out="00:00:02.360">
+      <property name="argument">* Дубль кахарва</property>
+      <property name="geometry">185 261 349 94 1</property>
+      <property name="family">Jost</property>
+      <property name="size">48</property>
+      <property name="weight">630</property>
+      <property name="style">italic</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">48</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter9" out="00:00:02.360">
+      <property name="argument">Положение</property>
+      <property name="geometry">-1 338 721 171 1</property>
+      <property name="family">Jost</property>
+      <property name="size">48</property>
+      <property name="weight">570</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aaffffff</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">48</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter10" out="00:00:02.360">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">00:00:01.720=1;00:00:02.360=0</property>
+      <property name="shotcut:animOut">00:00:00.680</property>
+    </filter>
+    <filter id="filter11" out="00:00:02.360">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 0 720 540 1;00:00:01.560=-5.04 -4 730.08 548 1;00:00:02.760=0 0 720 540 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:01.120</property>
+      <property name="shotcut:animOut">00:00:01.240</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">00:00:00.000=0;00:00:01.560=0;00:00:02.760=0</property>
+    </filter>
+    <filter id="filter12" out="00:00:02.360">
+      <property name="start">1</property>
+      <property name="hori">00:00:00.000=5.18636;00:00:00.760=0</property>
+      <property name="vert">00:00:00.000=6.98458;00:00:00.600=0</property>
+      <property name="mlt_service">boxblur</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter13" out="00:00:02.360">
+      <property name="version">0.2</property>
+      <property name="mlt_service">frei0r.premultiply</property>
+      <property name="threads">0</property>
+      <property name="0">1</property>
+    </filter>
+    <filter id="filter14" out="00:00:02.360">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">00:00:00.000=0;00:00:00.400=1</property>
+      <property name="shotcut:animIn">00:00:00.440</property>
+    </filter>
+  </producer>
+  <producer id="producer20" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter16" out="00:00:02.200">
+      <property name="argument">Правая рука</property>
+      <property name="geometry">137 423 431 88 1</property>
+      <property name="family">Jost</property>
+      <property name="size">48</property>
+      <property name="weight">570</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">48</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter17" out="00:00:02.200">
+      <property name="argument">(ке) те</property>
+      <property name="geometry">405 416 279 97 1</property>
+      <property name="family">Jost</property>
+      <property name="size">48</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">left</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">48</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter18" out="00:00:02.200">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">00:00:01.920=1;00:00:02.200=0</property>
+      <property name="shotcut:animOut">00:00:00.320</property>
+    </filter>
+    <filter id="filter19" out="00:00:02.200">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">00:00:00.000=0;00:00:00.280=1</property>
+      <property name="shotcut:animIn">00:00:00.320</property>
+    </filter>
+    <filter id="filter20" out="00:00:02.200">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 0 720 540 1;00:00:01.000=-5.04 -4 730.08 548 1;00:00:02.200=0 0 720 540 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:01.120</property>
+      <property name="shotcut:animOut">00:00:01.240</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">00:00:00.000=0;00:00:01.000=0;00:00:02.200=0</property>
+    </filter>
+  </producer>
+  <producer id="producer10" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter15" out="00:00:02.200">
+      <property name="argument">Постановка пальцев</property>
+      <property name="geometry">137 423 431 88 1</property>
+      <property name="family">Jost</property>
+      <property name="size">48</property>
+      <property name="weight">570</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">48</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter21" out="00:00:02.200">
+      <property name="argument">(ке) те</property>
+      <property name="geometry">405 416 279 97 1</property>
+      <property name="family">Jost</property>
+      <property name="size">48</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">left</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">48</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter22" out="00:00:02.200">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">00:00:01.920=1;00:00:02.200=0</property>
+      <property name="shotcut:animOut">00:00:00.320</property>
+    </filter>
+    <filter id="filter23" out="00:00:02.200">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">00:00:00.000=0;00:00:00.280=1</property>
+      <property name="shotcut:animIn">00:00:00.320</property>
+    </filter>
+    <filter id="filter24" out="00:00:02.200">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 0 720 540 1;00:00:01.000=-5.04 -4 730.08 548 1;00:00:02.200=0 0 720 540 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:01.120</property>
+      <property name="shotcut:animOut">00:00:01.240</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">00:00:00.000=0;00:00:01.000=0;00:00:02.200=0</property>
+    </filter>
+  </producer>
+  <producer id="producer11" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter25" out="00:00:02.200">
+      <property name="argument">Левая рука</property>
+      <property name="geometry">137 423 431 88 1</property>
+      <property name="family">Jost</property>
+      <property name="size">48</property>
+      <property name="weight">570</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">48</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter26" out="00:00:02.200">
+      <property name="argument">(ке) те</property>
+      <property name="geometry">405 416 279 97 1</property>
+      <property name="family">Jost</property>
+      <property name="size">48</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">left</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">48</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter27" out="00:00:02.200">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">00:00:01.920=1;00:00:02.200=0</property>
+      <property name="shotcut:animOut">00:00:00.320</property>
+    </filter>
+    <filter id="filter28" out="00:00:02.200">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">00:00:00.000=0;00:00:00.280=1</property>
+      <property name="shotcut:animIn">00:00:00.320</property>
+    </filter>
+    <filter id="filter29" out="00:00:02.200">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 0 720 540 1;00:00:01.000=-5.04 -4 730.08 548 1;00:00:02.200=0 0 720 540 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:01.120</property>
+      <property name="shotcut:animOut">00:00:01.240</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">00:00:00.000=0;00:00:01.000=0;00:00:02.200=0</property>
+    </filter>
+  </producer>
+  <producer id="producer12" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter30" out="00:00:02.200">
+      <property name="argument">Качество звука</property>
+      <property name="geometry">137 423 431 88 1</property>
+      <property name="family">Jost</property>
+      <property name="size">48</property>
+      <property name="weight">570</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">48</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter31" out="00:00:02.200">
+      <property name="argument">(ке) те</property>
+      <property name="geometry">405 416 279 97 1</property>
+      <property name="family">Jost</property>
+      <property name="size">48</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">left</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">48</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter32" out="00:00:02.200">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">00:00:01.920=1;00:00:02.200=0</property>
+      <property name="shotcut:animOut">00:00:00.320</property>
+    </filter>
+    <filter id="filter33" out="00:00:02.200">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">00:00:00.000=0;00:00:00.280=1</property>
+      <property name="shotcut:animIn">00:00:00.320</property>
+    </filter>
+    <filter id="filter34" out="00:00:02.200">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 0 720 540 1;00:00:01.000=-5.04 -4 730.08 548 1;00:00:02.200=0 0 720 540 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:01.120</property>
+      <property name="shotcut:animOut">00:00:01.240</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">00:00:00.000=0;00:00:01.000=0;00:00:02.200=0</property>
+    </filter>
+  </producer>
+  <playlist id="playlist3">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V2</property>
+    <blank length="00:00:01.360"/>
+    <entry producer="producer32" in="00:00:00.000" out="00:00:02.360"/>
+    <blank length="00:01:13.960"/>
+    <entry producer="producer20" in="00:00:00.000" out="00:00:02.200"/>
+    <blank length="00:00:57.120"/>
+    <entry producer="producer10" in="00:00:00.000" out="00:00:02.200"/>
+    <blank length="00:00:18.840"/>
+    <entry producer="producer11" in="00:00:00.000" out="00:00:02.200"/>
+    <blank length="00:01:07.040"/>
+    <entry producer="producer12" in="00:00:00.000" out="00:00:02.200"/>
+  </playlist>
+  <playlist id="playlist2">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <blank length="00:00:00.040"/>
+  </playlist>
+  <tractor id="tractor9" title="Shotcut version 21.01.29" global_feed="1" in="00:00:00.000" out="00:04:36.000">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="shotcut:scaleFactor">1.15933</property>
+    <property name="shotcut:trackHeight">52</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist3"/>
+    <track producer="playlist2" hide="video"/>
+    <transition id="transition18">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition19">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition22">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition23">
+      <property name="a_track">1</property>
+      <property name="b_track">2</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition24">
+      <property name="a_track">0</property>
+      <property name="b_track">3</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+  </tractor>
+</mlt>
